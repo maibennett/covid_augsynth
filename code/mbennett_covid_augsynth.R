@@ -24,7 +24,7 @@ set.seed(100)
 
 #### URLs to download data
 URLresidence = "https://raw.githubusercontent.com/jorgeperezrojas/covid19-data/master/csv/long_confirmados_comunas_interpolado.csv"
-dirComuna = "https://raw.githubusercontent.com/maibennett/code/master/covid/data/comuna_income.csv"
+dirComuna = "https://raw.githubusercontent.com/maibennett/covid_augsynth/master/data/comuna_income.csv"
 ###
 
 #You can include update to data (depending on where it's grabbing it from)
