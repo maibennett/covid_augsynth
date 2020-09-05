@@ -23,7 +23,7 @@ hrbrthemes::update_geom_font_defaults(family=font_fsm) # Set up theme for ggplot
 set.seed(100)
 
 #### URLs to download data
-URLresidence = "https://raw.githubusercontent.com/jorgeperezrojas/covid19-data/master/csv/long_confirmados_comunas_interpolado.csv"
+URLresidence = "https://raw.githubusercontent.com/maibennett/covid_augsynth/master/data/jorgeperezrojas_long_confirmados_comunas_interpolado.csv"
 dirComuna = "https://raw.githubusercontent.com/maibennett/covid_augsynth/master/data/comuna_income.csv"
 ###
 
