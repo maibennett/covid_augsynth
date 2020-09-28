@@ -23,6 +23,8 @@ hrbrthemes::update_geom_font_defaults(family=font_fsm) # Set up theme for ggplot
 set.seed(100)
 
 #### URLs to download data
+# Note: Data for cases by residence downloaded from Jorge Perez Rojas' Github:
+# https://github.com/jorgeperezrojas/covid19-data/blob/master/csv/long_confirmados_comunas_interpolado.csv
 URLresidence = "https://raw.githubusercontent.com/maibennett/covid_augsynth/master/data/jorgeperezrojas_long_confirmados_comunas_interpolado.csv"
 dirComuna = "https://raw.githubusercontent.com/maibennett/covid_augsynth/master/data/comuna_income.csv"
 ###
